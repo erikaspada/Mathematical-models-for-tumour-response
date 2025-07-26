@@ -1,4 +1,4 @@
-%% PDE
+%%PDE
 
 function [state, time, x] = solve_pde(params, state, u1)
 % Store data
