@@ -1,5 +1,4 @@
-%% Main script 
-
+%%Main
 % Load parameters and initial conditions
 [params, state] = define_parameters();
 
