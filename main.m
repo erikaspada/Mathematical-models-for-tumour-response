@@ -6,7 +6,7 @@
 u1 = drug_schedule(params, 'standard');
 
 % Solve PDE model
-[state, time, x] = solve_pde(params, state, u1);
+[state, time, x] = PDE_solver(params, state, u1);
 
 % Solve Euler system (f_e, mu_e, rho_e)
 [euler_out] = euler_solver(params, u1);
