@@ -4,7 +4,7 @@ Repository for the Bachelor thesis which focuses on the analysis of the evolutio
 
 ## Repository Structure
 
-### `functions`
+### Functions
 The `functions` folder contains:
 - `define_parameters.m` – Initializes all physical and simulation parameters (space, time, biological constants).
 - `drug_schedule.m` – Defines the time profile of the administered drug.
