@@ -1,6 +1,6 @@
 %%PDE
 
-function [state, time, x] = solve_pde(params, state, u1)
+function [state, time, x] = PDE_solver(params, state, u1)
 % Store data
 pic = 0.05; % time step b/w saving data
 rho = state.rho0;
