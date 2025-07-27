@@ -1,11 +1,10 @@
 # Mathematical models for tumour response to chemotherapy drugs
-**Official repository for the Bachelor thesis**   
-The project focuses on the analysis of the evolution of a cancerous population subjected to chemotherapy drugs. It investigates the evolution of a phenotypic population state using a reaction–diffusion model and its analytical approximation via Euler methods.
+Repository for the Bachelor thesis which focuses on the analysis of the evolution of a cancerous population subjected to chemotherapy drugs. It investigates the evolution of a phenotypic population state using a reaction–diffusion model and its analytical approximation via Euler methods.
 
 
 ## Repository Structure
 
-### `functions/`
+### `functions`
 The `functions` folder contains:
 - `define_parameters.m` – Initializes all physical and simulation parameters (space, time, biological constants).
 - `drug_schedule.m` – Defines the time profile of the administered drug.
@@ -22,5 +21,5 @@ The `functions` folder contains:
 
 
 # Author 
-**Erika Spada** – s318375@studenti.polito.it
+Erika Spada – s318375@studenti.polito.it
 
