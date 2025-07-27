@@ -20,6 +20,6 @@ The `functions` folder contains:
 - No additional toolboxes required
 
 
-# Author 
+## Author 
 Erika Spada – s318375@studenti.polito.it
 
